@@ -1,0 +1,6 @@
+{
+  "name": "lib-app70",
+  "version": "1.9.8",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
